@@ -1,0 +1,25 @@
+{
+  "name": "tizen-commander",
+  "version": "1.0.0",
+  "description": "Productivity improvements for Tizen applications developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbsamsung/tizen-commander.git"
+  },
+  "keywords": [
+    "tizen",
+    "tv",
+    "applications",
+    "widgets"
+  ],
+  "author": "Pawel Buczynski",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/pbsamsung/tizen-commander/issues"
+  },
+  "homepage": "https://github.com/pbsamsung/tizen-commander#readme"
+}
